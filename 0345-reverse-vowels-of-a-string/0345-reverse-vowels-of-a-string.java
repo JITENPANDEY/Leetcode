@@ -3,6 +3,10 @@ class Solution {
         StringBuilder sb = new StringBuilder(s);
         int left = 0, right = s.length()-1;
         while(left<right) {
+            while(left<right && !isVowel(sb.charAt(left))) left++;
+            
+            while(left<right && !isVowel(sb.charAt(right))) right--;
+
             if(isVowel(sb.charAt(left)) && isVowel(sb.charAt(right))){
                 char temp = sb.charAt(left);
                 sb.setCharAt(left, sb.charAt(right));
@@ -11,8 +15,7 @@ class Solution {
                 left++;
                 right--;
             }
-            if(!isVowel(sb.charAt(left))) left++;
-            if(!isVowel(sb.charAt(right))) right--;
+           
             
         }
         return sb.toString();
