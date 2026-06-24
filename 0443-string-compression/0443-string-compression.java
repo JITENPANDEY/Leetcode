@@ -17,7 +17,6 @@ class Solution {
                 }
             }
         }
-        System.out.println(index);
         return index;
     }
 }
