@@ -27,6 +27,7 @@ Leetcode Coding Problem Set
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JITENPANDEY/Leetcode/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/JITENPANDEY/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JITENPANDEY/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/JITENPANDEY/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -47,4 +48,8 @@ Leetcode Coding Problem Set
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/JITENPANDEY/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JITENPANDEY/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/JITENPANDEY/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
