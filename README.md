@@ -15,6 +15,7 @@ Leetcode Coding Problem Set
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/JITENPANDEY/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/JITENPANDEY/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JITENPANDEY/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/JITENPANDEY/Leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JITENPANDEY/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -54,8 +55,10 @@ Leetcode Coding Problem Set
 | ------- |
 | [0001-two-sum](https://github.com/JITENPANDEY/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/JITENPANDEY/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JITENPANDEY/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/JITENPANDEY/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JITENPANDEY/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
