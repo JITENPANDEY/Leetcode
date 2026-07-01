@@ -33,6 +33,7 @@ Leetcode Coding Problem Set
 | [0049-group-anagrams](https://github.com/JITENPANDEY/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/JITENPANDEY/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JITENPANDEY/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/JITENPANDEY/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/JITENPANDEY/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JITENPANDEY/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/JITENPANDEY/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -60,6 +61,7 @@ Leetcode Coding Problem Set
 | [0049-group-anagrams](https://github.com/JITENPANDEY/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/JITENPANDEY/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JITENPANDEY/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/JITENPANDEY/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JITENPANDEY/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -67,6 +69,7 @@ Leetcode Coding Problem Set
 | [0049-group-anagrams](https://github.com/JITENPANDEY/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/JITENPANDEY/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JITENPANDEY/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/JITENPANDEY/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JITENPANDEY/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -76,4 +79,5 @@ Leetcode Coding Problem Set
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JITENPANDEY/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/JITENPANDEY/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
