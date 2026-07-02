@@ -39,6 +39,7 @@ Leetcode Coding Problem Set
 | [0334-increasing-triplet-subsequence](https://github.com/JITENPANDEY/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/JITENPANDEY/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JITENPANDEY/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-last-stone-weight](https://github.com/JITENPANDEY/Leetcode/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JITENPANDEY/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -80,4 +81,8 @@ Leetcode Coding Problem Set
 | ------- |
 | [0169-majority-element](https://github.com/JITENPANDEY/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JITENPANDEY/Leetcode/tree/master/0229-majority-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/JITENPANDEY/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
