@@ -14,6 +14,7 @@ Leetcode Coding Problem Set
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/JITENPANDEY/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/JITENPANDEY/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/JITENPANDEY/Leetcode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/JITENPANDEY/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -26,6 +27,7 @@ Leetcode Coding Problem Set
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/JITENPANDEY/Leetcode/tree/master/0043-multiply-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JITENPANDEY/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -90,4 +92,8 @@ Leetcode Coding Problem Set
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/JITENPANDEY/Leetcode/tree/master/0091-decode-ways) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/JITENPANDEY/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
