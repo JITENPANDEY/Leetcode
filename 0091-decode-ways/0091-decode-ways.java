@@ -1,4 +1,19 @@
 class Solution {
+//                 solve(0)
+//                /        \
+//       take 2            take 22
+//          |                  |
+//      solve(1)            solve(2)
+//       /     \               |
+//  take2      take26        take6
+//    |           |            |
+// solve(2)    solve(3)     solve(3)
+//     |            |          |
+//  take6         END         END
+//     |
+//  solve(3)
+//     |
+//    END
     public int numDecodings(String s) {
         int[] memo = new int[s.length()];
         Arrays.fill(memo, -1);
