@@ -40,6 +40,7 @@ Leetcode Coding Problem Set
 | [0238-product-of-array-except-self](https://github.com/JITENPANDEY/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JITENPANDEY/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/JITENPANDEY/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/JITENPANDEY/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/JITENPANDEY/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JITENPANDEY/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-last-stone-weight](https://github.com/JITENPANDEY/Leetcode/tree/master/1046-last-stone-weight) |
@@ -48,6 +49,7 @@ Leetcode Coding Problem Set
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/JITENPANDEY/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/JITENPANDEY/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/JITENPANDEY/Leetcode/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
@@ -75,6 +77,7 @@ Leetcode Coding Problem Set
 | [0217-contains-duplicate](https://github.com/JITENPANDEY/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/JITENPANDEY/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JITENPANDEY/Leetcode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/JITENPANDEY/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +95,7 @@ Leetcode Coding Problem Set
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/JITENPANDEY/Leetcode/tree/master/0091-decode-ways) |
+| [0435-non-overlapping-intervals](https://github.com/JITENPANDEY/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
