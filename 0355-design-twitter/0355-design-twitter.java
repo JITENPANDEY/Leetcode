@@ -52,7 +52,6 @@ class Twitter {
                 followingTweets.forEach(t -> feedHeap.add(t));
             }
         }
-        System.out.println(feedHeap);
 
         int count = 1;
         List<Integer> feed = new ArrayList<>();
