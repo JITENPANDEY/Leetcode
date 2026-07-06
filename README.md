@@ -69,6 +69,7 @@ Leetcode Coding Problem Set
 | [0217-contains-duplicate](https://github.com/JITENPANDEY/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/JITENPANDEY/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JITENPANDEY/Leetcode/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/JITENPANDEY/Leetcode/tree/master/0355-design-twitter) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Leetcode Coding Problem Set
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/JITENPANDEY/Leetcode/tree/master/0355-design-twitter) |
 | [1046-last-stone-weight](https://github.com/JITENPANDEY/Leetcode/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
@@ -100,4 +102,12 @@ Leetcode Coding Problem Set
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/JITENPANDEY/Leetcode/tree/master/0043-multiply-strings) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/JITENPANDEY/Leetcode/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/JITENPANDEY/Leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
