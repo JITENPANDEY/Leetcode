@@ -44,6 +44,7 @@ Leetcode Coding Problem Set
 | [0435-non-overlapping-intervals](https://github.com/JITENPANDEY/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/JITENPANDEY/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JITENPANDEY/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1046-last-stone-weight](https://github.com/JITENPANDEY/Leetcode/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/JITENPANDEY/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -71,6 +72,7 @@ Leetcode Coding Problem Set
 | [0229-majority-element-ii](https://github.com/JITENPANDEY/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/JITENPANDEY/Leetcode/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/JITENPANDEY/Leetcode/tree/master/0355-design-twitter) |
+| [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
 ## Sorting
 |  |
 | ------- |
@@ -112,4 +114,20 @@ Leetcode Coding Problem Set
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/JITENPANDEY/Leetcode/tree/master/0355-design-twitter) |
+## Depth-First Search
+|  |
+| ------- |
+| [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
+## Union-Find
+|  |
+| ------- |
+| [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
+## Graph Theory
+|  |
+| ------- |
+| [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
 <!---LeetCode Topics End-->
