@@ -24,6 +24,7 @@ Leetcode Coding Problem Set
 | [1071-greatest-common-divisor-of-strings](https://github.com/JITENPANDEY/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JITENPANDEY/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/JITENPANDEY/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/JITENPANDEY/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -103,10 +104,12 @@ Leetcode Coding Problem Set
 | ------- |
 | [0091-decode-ways](https://github.com/JITENPANDEY/Leetcode/tree/master/0091-decode-ways) |
 | [0435-non-overlapping-intervals](https://github.com/JITENPANDEY/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/JITENPANDEY/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/JITENPANDEY/Leetcode/tree/master/0043-multiply-strings) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/JITENPANDEY/Leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 ## Linked List
 |  |
 | ------- |
