@@ -36,6 +36,7 @@ Leetcode Coding Problem Set
 | [0001-two-sum](https://github.com/JITENPANDEY/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/JITENPANDEY/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/JITENPANDEY/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/JITENPANDEY/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/JITENPANDEY/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/JITENPANDEY/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/JITENPANDEY/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -117,17 +118,24 @@ Leetcode Coding Problem Set
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JITENPANDEY/Leetcode/tree/master/0200-number-of-islands) |
 | [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JITENPANDEY/Leetcode/tree/master/0200-number-of-islands) |
 | [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/JITENPANDEY/Leetcode/tree/master/0200-number-of-islands) |
 | [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
 ## Graph Theory
 |  |
 | ------- |
 | [0924-minimize-malware-spread](https://github.com/JITENPANDEY/Leetcode/tree/master/0924-minimize-malware-spread) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/JITENPANDEY/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
